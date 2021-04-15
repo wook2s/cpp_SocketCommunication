@@ -1,0 +1,122 @@
+Thu Apr 15 01:42:00 2021
+lee : ad
+Thu Apr 15 01:42:01 2021
+lee : as
+Thu Apr 15 01:42:02 2021
+kim : adsas
+Thu Apr 15 01:42:03 2021
+kim : asda
+Thu Apr 15 01:42:03 2021
+kim : sdasd
+Thu Apr 15 01:42:05 2021
+kim : 
+Thu Apr 15 01:42:52 2021
+lee : ads
+Thu Apr 15 01:42:53 2021
+lee : asd
+Thu Apr 15 01:42:53 2021
+lee : asd
+Thu Apr 15 01:42:55 2021
+kim : 111
+Thu Apr 15 01:42:56 2021
+kim : 3234234
+Thu Apr 15 01:42:57 2021
+kim : sfsdfsdfs
+Thu Apr 15 01:42:58 2021
+kim : f
+Thu Apr 15 01:44:30 2021
+kim : asasd
+Thu Apr 15 01:44:30 2021
+kim : asda
+Thu Apr 15 01:44:30 2021
+kim : sdasd
+Thu Apr 15 01:44:32 2021
+lee : qqq
+Thu Apr 15 01:44:32 2021
+lee : www
+Thu Apr 15 01:44:33 2021
+lee : eeee
+Thu Apr 15 02:06:56 2021
+kim : das
+Thu Apr 15 02:06:56 2021
+kim : asda
+Thu Apr 15 02:06:56 2021
+kim : dsas
+Thu Apr 15 02:06:57 2021
+kim : dads
+Thu Apr 15 02:06:59 2021
+lee : qewqw
+Thu Apr 15 02:06:59 2021
+lee : eqwe
+Thu Apr 15 02:07:00 2021
+lee : e
+Thu Apr 15 02:07:00 2021
+lee : qweq
+Thu Apr 15 02:07:00 2021
+lee : weq
+Thu Apr 15 02:07:00 2021
+lee : weqwe
+Thu Apr 15 02:07:01 2021
+lee : qwe
+Thu Apr 15 14:25:00 2021
+lee : gkdlgkdl
+Thu Apr 15 14:25:01 2021
+lee : ggg
+Thu Apr 15 14:25:02 2021
+lee : good
+Thu Apr 15 14:25:06 2021
+kim : dhdndklkdkadkdkd
+Thu Apr 15 14:25:07 2021
+kim : sadasdasd
+Thu Apr 15 14:25:07 2021
+kim : asdsa
+Thu Apr 15 14:25:07 2021
+kim : dasd
+Thu Apr 15 14:25:09 2021
+kim : exit
+Thu Apr 15 14:25:11 2021
+lee : exit
+2021/4/15/14/41/0 : lee : gkdlgkdl
+2021/4/15/14/41/1 : lee : zzzz
+2021/4/15/14/41/3 : kim : wmfemtpa
+2021/4/15/14/41/4 : kim : zzz
+2021/4/15/14/41/5 : kim : zzzzzzz
+2021/4/15/14/41/7 : kim : opopopopp
+2021/4/15/14/41/9 : lee : wewewee
+2021/4/15/14/41/10 : lee : fgfgfgfg
+2021/4/15/14/41/11 : lee : hnhnhnhn
+2021/4/15/14/41/14 : kim : lplplpl
+2021/4/15/14/41/15 : kim : exit
+2021/4/15/14/41/19 : lee : exit
+2021.4.15  14:43:15 : lee : hihihihihi
+2021.4.15  14:43:16 : lee : hihihihih
+2021.4.15  14:43:17 : lee : hihihihihi
+2021.4.15  14:43:18 : lee : hihihihi
+2021.4.15  14:43:21 : kim : good
+2021.4.15  14:43:22 : kim : ±Â
+2021.4.15  14:43:25 : kim : ±Âµå±Âµå
+2021.4.15  14:43:26 : kim : exit
+2021.4.15  14:43:29 : lee : exit
+2021/4/15  14:45:22 : lee : ½Ã·¯
+2021/4/15  14:45:24 : lee : ³Ê³ª Á¶¿ëÈ÷ÇØ
+2021/4/15  14:45:31 : kim : µÑ´Ù ¾¾¹ß ¤µ ¤Ó²ô·¯¿ì´Ï±î ´ÚÃÄºÁ Á» ;;
+2021/4/15  14:45:43 : kim : exit
+2021/4/15  14:45:47 : lee : exit
+2021/4/15  14:50:40 : kim : ¤¾¤·
+2021/4/15  14:50:41 : kim : ¤¾¤·
+2021/4/15  14:50:41 : kim : ¤¾¤·
+2021/4/15  14:50:42 : kim : ¤¾¤·
+2021/4/15  14:50:42 : kim : ¤¾¤·
+2021/4/15  14:50:43 : kim : ¤¾¤·
+2021/4/15  14:50:43 : kim : ¤¾¤·
+2021/4/15  14:50:47 : lee : aas
+2021/4/15  14:50:47 : lee : asd
+2021/4/15  14:50:52 : lee : asd
+2021/4/15  14:50:52 : lee : asd
+2021/4/15  14:50:52 : lee : asd
+2021/4/15  14:50:53 : lee : asd
+2021/4/15  14:51:1 : kim : exit
+2021/4/15  14:51:5 : lee : exit
+2021/4/15  15:15:12 : kim : 3
+2021/4/15  15:15:15 : kim : exit
+2021/4/15  15:15:29 :  : exit
